@@ -1,0 +1,11 @@
+/*external cascading sheet*/
+
+div {
+
+    background-color: red;
+    margin: center;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+}
