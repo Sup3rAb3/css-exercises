@@ -1,10 +1,20 @@
-.p1 {
+.odd-elements, .odd-elements2 {
     background-color: lightpink; 
     font-family: verdana, dejavu sans, sans-serif;
+    
 }
 
-#div1 {
+.odd-elements2 {
+    font-size: 36px;
+}
+
+#container-1 {
     color: blue;
     font-size: 36px;
 }
 
+#container-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
