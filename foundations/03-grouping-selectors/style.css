@@ -1,14 +1,19 @@
-.onCLick {
+.bnw,.yellow{
+    font-family: "Helevetica", "Times New Roman", sans-serif;
+    font-size: 80px;
+}
+
+
+.bnw{
     background-color: white;
     color: black;
-    font-family: Helevetica, Times New Roman, sans-serif;
-    font-size: 28px;
+    
 }
 
-.click2 {
+.yellow {
     background-color: yellow;
     color: black;
-    font-family: Helevetica, Times New Roman, sans-serif;
-    font-size: 28px;
+    
 
 }
+
