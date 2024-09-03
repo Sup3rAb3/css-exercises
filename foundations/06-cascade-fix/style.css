@@ -10,7 +10,7 @@ body {
 
 .small-para {
   font-size: 17px;
-  font-weight: 800;
+  font-weight: 950;
 }
 
 
@@ -19,10 +19,11 @@ body {
  
 }
 
-.confirm {
+#button1.confirm{
   background: green;
   color: white;
   font-weight: bold;
+  font-size: 20px;
 } 
 
 .button {
